@@ -1,4 +1,4 @@
-
+''' outdated I dont know how to remove
 Hydrogen = {
     "Atomic Number": 1,
     "Symbol": "H",
@@ -823,4 +823,4 @@ Oganesson = {
     "Boiling point": -182,
     "Family": "Noble Gases"
 }
-
+'''
