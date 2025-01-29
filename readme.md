@@ -28,4 +28,6 @@ return "\n".join(tuplevaule).
 
 ### element_num_return_element(number_of_element):
 
-This function is a Function that takes the Parameter of how many Elements you want you return. It creates a list for int vals to be stored. A range is run for the user to eneter the element_number. Using the Try , except Statement if the input is not an int val the program makes you try again. If the Element Number is greated than 118 the element_number = 118. The program then stores a variable called Value which  = element_dict_num[element_num] *element_dict_num is from the Elements_Dict_num.py*. It then adds this this value to list in a string List.append("Element Number "+ str(element_number) +" : "+ vaule ). When the Loop is done it joins these values using the New Line "\n"
+This function is a Function that takes the Parameter of how many Elements you want you return. It creates a list for int vals to be stored. A range is run for the user to eneter the element_number. Using the Try , except Statement if the input is not an int val the program makes you try again. If the Element Number is greated than 118 the element_number = 118. 
+The program then stores a variable called Value which  = element_dict_num[element_num] *element_dict_num is from the Elements_Dict_num.py*. 
+It then adds this this value to list in a string List.append("Element Number "+ str(element_number) +" : "+ vaule ). When the Loop is done it joins these values using the New Line "\n"
